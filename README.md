@@ -1,7 +1,7 @@
 ## Eu sou a Darla Sthefanny
 
 
-- 🔭 Trabalho com gerenciamento de equipes
+- 🔭 Formada em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Testes de Sosftware
   
 <div> 
